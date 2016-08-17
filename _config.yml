@@ -16,5 +16,8 @@ navigation:
   - name: Hotel
     url: 'http://www.hotelnvygeneva.com/'
     type: external
+  - name: Rooms & Suites
+    url: 'http://www.hotelnvygeneva.com/chambres-et-suites/'
+    type: external
 title: ARTY - COSY - TRENDY
 description: T
