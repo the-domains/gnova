@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.8648222596384585
 name: N'vy Hotel
+navigation:
+  - name: Hotel
+    url: 'http://www.hotelnvygeneva.com/'
+    type: external
 title: ARTY - COSY - TRENDY
 description: T
