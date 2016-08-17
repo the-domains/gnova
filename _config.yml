@@ -16,9 +16,6 @@ navigation:
   - name: Hotel
     url: 'http://www.hotelnvygeneva.com/'
     type: external
-  - name: Rooms & Suites
-    url: 'http://www.hotelnvygeneva.com/chambres-et-suites/'
-    type: external
   - name: Bars & Restaurants
     url: 'http://www.hotelnvygeneva.com/bars-et-restaurants/'
     type: external
