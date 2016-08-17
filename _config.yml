@@ -1,0 +1,14 @@
+layout_spectrum: 0.8648222596384585
+typography_spectrum: 0.5599995274096727
+color:
+  brandStrength: 0.9939057517331094
+  lightness: 0.10766649735160172
+  saturation: 0.4917063903994858
+  rhythmicContrast: 0.36653889366425574
+  brandColors:
+    - '#372116'
+    - '#D3CBC8'
+    - '#D4724F'
+    - '#8F8F8F'
+    - '#6F5839'
+name: Gnova
