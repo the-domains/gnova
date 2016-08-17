@@ -22,5 +22,8 @@ navigation:
   - name: Bars & Restaurants
     url: 'http://www.hotelnvygeneva.com/bars-et-restaurants/'
     type: external
+  - name: Special Offers
+    url: 'http://www.hotelnvygeneva.com/offres-speciales/'
+    type: external
 title: ARTY - COSY - TRENDY
 description: T
