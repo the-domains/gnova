@@ -25,5 +25,8 @@ navigation:
   - name: Special Offers
     url: 'http://www.hotelnvygeneva.com/offres-speciales/'
     type: external
+  - name: suite
+    id: c45aa7d1-6ac9-42bd-8b68-bc73b9fada7a
+    type: content
 title: ARTY - COSY - TRENDY
 description: The best hotel in Geneva
