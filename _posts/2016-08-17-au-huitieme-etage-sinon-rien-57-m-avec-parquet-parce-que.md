@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T18:59:22.477Z'
+datePublished: '2016-08-17T19:07:25.015Z'
 sourcePath: _posts/2016-08-17-au-huitieme-etage-sinon-rien-57-m-avec-parquet-parce-que.md
 author: []
 via: {}
-dateModified: '2016-08-17T18:59:22.004Z'
+dateModified: '2016-08-17T19:07:24.450Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,11 +13,10 @@ description: >-
   sa baignoire balnéothérapie. Un accès privatif à la terrasse agencée avec vue
   180° sur le lac. C’est la suite SoChic et c’est exclusivement à l’hôtel N’vY 4
   étoiles. Vous pourrez dire que vous y étiez.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: au-huitieme-etage-sinon-rien-57-m-avec-parquet-parce-que/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a525fc62-610e-456a-a6a8-48fff6db6bfd.jpg)
